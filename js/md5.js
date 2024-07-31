@@ -1,4 +1,6 @@
 /*
+ * JavaScript MD5 1.0.1 是一个旧项目，用于GetPagekit 开发的过度
+ * 
  * JavaScript MD5 1.0.1
  * https://github.com/blueimp/JavaScript-MD5
  *
